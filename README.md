@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**alone-ai7/alone-ai7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm alone-ai7 👋
+## My real name is Elijah!
 
-Here are some ideas to get you started:
+IT student with a goal: land at a top game studio.
+Valve, Capcom, Rockstar — I'm working toward it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm into
+- 🎮 Game dev
+- 🔐 Cybersecurity
+- 🌐 Web dev
+- 🐍 Python
+
+### Currently
+- 🌱 First open source contributions
+- 📚 Learning the game dev pipeline
+
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alone-ai7&theme=dark&show_icons=true)   
