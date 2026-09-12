@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi, I'm alone-ai7 👋
 ## My real name is Elijah!
 
