@@ -18,4 +18,5 @@ Valve, Capcom, Rockstar — I'm working toward it.
 
 ### Stats   
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alone-ai7&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alone-ai7&layout=compact&theme=dark&hide_border=true)   
    
