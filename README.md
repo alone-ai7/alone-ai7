@@ -8,7 +8,7 @@ Valve, Capcom, Rockstar — I'm working toward it.
 - 🎮 Game dev
 - 🔐 Cybersecurity
 - 🌐 Web dev
-- 🐍 Python
+- 🐛 Debugging
 
 ### Currently
 - 🌱 First open source contributions
