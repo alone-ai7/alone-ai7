@@ -17,4 +17,4 @@ Valve, Capcom, Rockstar — I'm working toward it.
 - 📚 Learning the game dev pipeline
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alone-ai7&theme=dark&show_icons=true)   
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alone-ai7&theme=dark&show_icons=true&v=1)     
