@@ -18,6 +18,13 @@ Valve, Capcom, Rockstar — I'm working toward it.
 ### Stats   
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alone-ai7&theme=dark)  
 ![GitHub Stats](https://ghstats.dev/api/card?username=alone-ai7)   
+
+
+
+
+
+
+
  
   
  
