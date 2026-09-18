@@ -19,7 +19,7 @@ Valve, Capcom, Rockstar — I'm working toward it.
 
 ### Contact
 
-Open an issue on any of my repositories, or start a discussion. That is the fastest way to reach me and it keeps the answer somewhere the next person can find it.
+Open an issue on any of my repositories, or start a discussion. Or simply tap any  of my social media accounts and message me. That is the fastest way to reach me.
 For anything about a specific repository, please use that repository's issue tracker rather than emailing. Context lives better next to the code.
 
     
