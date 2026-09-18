@@ -21,6 +21,7 @@ Valve, Capcom, Rockstar — I'm working toward it.
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=alone-ai7&layout=compact&card_width=500)     
 
+ 
 
 
 
