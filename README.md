@@ -22,7 +22,7 @@ Valve, Capcom, Rockstar — I'm working toward it.
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=alone-ai7&layout=compact&card_width=500)     
 
  
-
+[![trophy](https://trophy.ryglcloud.net/?username=alone-ai7&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)   
 
 
  
