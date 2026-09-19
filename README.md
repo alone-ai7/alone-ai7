@@ -35,7 +35,10 @@ For anything about a specific repository, please use that repository's issue tra
 [![trophy](https://trophy.ryglcloud.net/?username=alone-ai7&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)   
 
 
- 
+ <p align="center">
+  <img src="randomizer.gif" alt="ADMIRE Banner" width="100%">
+</p>
+
   
  
    
