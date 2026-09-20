@@ -78,12 +78,13 @@ Open an issue on any of my repositories, or start a discussion. Or simply tap an
 For anything about a specific repository, please use that repository's issue tracker rather than emailing. Context lives better next to the code.
 
 ### Stats   
-![Streak](https://herokuapp.com)  
-![GitHub Stats](https://ghstats.dev)   
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alone-ai7&theme=dark)  
+![GitHub Stats](https://ghstats.dev/api/card?username=alone-ai7)   
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=alone-ai7&layout=compact&card_width=500&theme=dracula&line_height=60&line_width=120)    
 
-![Top Languages](https://vercel.app)    
+[![trophy](https://trophy.ryglcloud.net/?username=alone-ai7&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)       
 
-[![trophy](https://ryglcloud.net)](https://github.com)   
+
 
 <p align="center">
   <img src="randomizer.gif" alt="ADMIRE Banner" width="100%">
