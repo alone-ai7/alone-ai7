@@ -22,7 +22,7 @@ Valve, Capcom, Rockstar — I'm working toward it.
 ### ⚔️ Primary Weapons (Languages)
 *   **Python** (The Foundation | Core Project Base)
 *   **C++** (The Speed | Low-Level Logic Study)
-*   **Java & C#** (The Structure | Academic Track)
+*   **Java & C#** (The Structure | Part of Game dev language)
 *   **GDScript** (The Fluidity | Godot Mechanics)
 
 ### 🛠️ Crafting Tools (Software & Environments)
