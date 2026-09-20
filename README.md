@@ -53,7 +53,7 @@ Valve, Capcom, Rockstar — I'm working toward it.
 *   **Methodology:** 📝 **Pure Analytical Observation** — Deconstructing complex engine behavior, diagnosing rendering bottlenecks, and documenting mechanical flaws entirely through technical summaries, architecture breakdowns, and post-mortems. 
 *   *Note: This laboratory contains zero source code—focusing strictly on architectural case studies and logical teardowns.*
 
-### 🧪 [Link to Repo](https://github.com) -> `game-teardowns` 📁
+### 🧪 [ game-teardown 📁 ](https://github.com)
 *   *Objective:* Documenting architectural design patterns and structural flaws discovered during live gameplay.
 *   *Active Analysis Tracks:*
     *   🔍 **State-Machine Logic:** Breaking down systemic rules and player stress tracking modules.
