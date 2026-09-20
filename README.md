@@ -55,10 +55,7 @@ Valve, Capcom, Rockstar — I'm working toward it.
 
 ### 🧪 [game-teardown](https://github.com/alone-ai7/game-teardown)
 *   *Objective:* Documenting architectural design patterns and structural flaws discovered during live gameplay.
-*   *Active Analysis Tracks:*
-    *   🔍 **State-Machine Logic:** Breaking down systemic rules and player stress tracking modules.
-    *   🐛 **Collision & Pathfinding Exploits:** Diagnosing bounding box clipping errors and boundary computation freezes.
-    *   ⚙️ **Tick-Rate Desynchronization:** Investigating input latency drops and spatial simulation discrepancies.
+
 
 ---
 
