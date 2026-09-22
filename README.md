@@ -13,7 +13,7 @@ IT student with a goal: land at a top game studio.
 Valve, Capcom, Rockstar — I'm working toward it.
 
 ## 🕹️ CHARACTER STATS
-*   **Class:** First-Year BSIT Student / Beginner Game Developer 🛠️
+*   **Class:** Beginner Game Developer 🛠️
 *   **Current Quest:** Mastering Object-Oriented Programming (OOP) & 2D Game Architecture 👾
 *   **Playstyle:** Pure Trial & Errors, heavy focus on Socratic learning and breaking code to understand the engine.
 *   **Passives:** 
@@ -85,7 +85,6 @@ For anything about a specific repository, please use that repository's issue tra
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=alone-ai7&layout=compact&card_width=500&theme=dracula&line_height=60&line_width=120)    
 
 [![trophy](https://trophy.ryglcloud.net/?username=alone-ai7&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)       
-
 
 
 <p align="center">
