@@ -85,6 +85,8 @@ For anything about a specific repository, please use that repository's issue tra
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=alone-ai7&layout=compact&card_width=500&theme=dracula&line_height=60&line_width=120&t=1)
 
+![Profile views](https://komarev.com/ghpvc/?username=alone-ai7&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
 [![trophy](https://trophy.ryglcloud.net/?username=alone-ai7&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)       
 
 
