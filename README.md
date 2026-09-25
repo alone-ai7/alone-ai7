@@ -12,6 +12,12 @@
 IT student with a goal: land at a top game studio.
 Valve, Capcom, Rockstar — I'm working toward it.
 
+<p align="center">
+  <img src="bonsai-alone-ai7.gif" alt="Bonsai" width="50%">
+</p>
+
+
+
 ## 🕹️ CHARACTER STATS
 *   **Class:** Beginner Game Developer 🛠️
 *   **Current Quest:** Mastering Object-Oriented Programming (OOP) & 2D Game Architecture 👾
