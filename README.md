@@ -4,84 +4,71 @@
   <img src="c08ce15b20528a64259d565f53586535.gif" alt="Kamui" width="50%">
 </p>
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Student+%F0%9F%91%A8%BB;Aiming+for+Valve,+Capcom,+Rockstar+%F0%9F%8E%AE;%F0%9F%8E%AE+Game+Dev+%C2%B7+%F0%9F%94%90+Cybersecurity+%C2%B7+%F0%9F%8C%90+Web+Dev;%F0%9F%90%9B+Debugging+%C2%B7+Building+in+Private+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 ## My real name is Elijah!
 
-IT student with a goal: land at a top game studio.
-Valve, Capcom, Rockstar — I'm working toward it.
+I am a first-year college student learning the fundamentals of programming. My dream is to work my way up to major game studios like **Valve, Capcom, and Rockstar** one day. Right now, I'm ignoring the flashy design stuff and focusing entirely on learning how game loops, code logic, and basic game mechanics function behind the scenes. 
+
+I use this GitHub to document my progress, keep track of my scripts, and log my practice runs.
 
 ![my kodama](https://kodama-sigma.vercel.app/alone-ai7.svg)
 
-
+---
 
 ## 🕹️ CHARACTER STATS
-*   **Class:** Beginner Game Developer 🛠️
-*   **Current Quest:** Mastering Object-Oriented Programming (OOP) & 2D Game Architecture 👾
-*   **Playstyle:** Pure Trial & Errors, heavy focus on Socratic learning and breaking code to understand the engine.
+
+*   **Class:** Beginner Game Developer 🛠0️⃣
+*   **Current Quest:** Figuring out Object-Oriented Programming (OOP) & 2D game setups.
+*   **Playstyle:** Heavy trial-and-error. I learn best by reading documentation, manually typing out code, and intentionally breaking scripts to understand what each line actually does.
 *   **Passives:** 
-    *   ⚡ **High-Speed Debugging:** Instantly detects anomalies and structural logic errors in source code.
-    *   🦉 **Night Owl Dev:** Performance multipliers peak during late-night programming sessions.
+    *   ⚡ **Spotting Bugs:** Fast at tracking typos and minor logic blocks when things crash.
+    *   🦉 **Night Coding:** Most productive when compiling and debugging late at night.
 
 ---
 
-## 🎒 INVENTORY (TECH STACK & TOOLS)
+## 🎒 INVENTORY (WHAT I'm USING)
 
-### ⚔️ Primary Weapons (Languages)
-*   **Python** (The Foundation | Core Project Base)
-*   **C++** (The Speed | Low-Level Logic Study)
-*   **Java & C#** (The Structure | Part of Game dev language)
-*   **GDScript** (The Fluidity | Godot Mechanics)
+### ⚔️ Languages I'm Practicing
+*   **Python:** The language I'm currently using at school and for basic logic exercises.
+*   **GDScript:** What I use to test out movement and node mechanics inside Godot.
+*   **Java, C#, & C++:** Languages I'm studying independently to understand syntax rules.
 
-### 🛠️ Crafting Tools (Software & Environments)
-*   **Notepad++** (Lightweight Text Execution via Command Line 💻)
-*   **Godot Engine 3.5.3** (2D Game Assembly)
-*   **Pygame** (OOP Framework Experimentation)
-*   **Adobe Photoshop** (Asset Manipulation & Layouts)
-
----
-
-## 🏆 ACTIVE QUEST LOG (CURRENT PROJECTS)
-
-### 🚀 [WIP] Alien Invasion (Pygame / Python Crash Course)
-*   *Objective:* Build a functional, 2D space shooter using OOP principles from Eric Matthes' textbook.
-*   *Features:* Implements keyboard movement arrays, class-based firing mechanics, and responsive screen-bound handling.
-
-### 🟩 [WIP] Flappy Bird Clone (Godot 3.5.3)
-*   *Objective:* Learn the full game dev pipeline, physics formulas, and random obstacle generation.
-*   *Features:* Designed with a separate academic research paper and dedicated raw node scripts repository for architecture documentation.
-
-### 🐍 [QUEUED] Snake Game (Pygame)
-*   *Objective:* Transition from procedural logic to complex OOP structures (Classes, Instances, and Inheritance).
+### 🛠️ Software & Environments
+*   **Notepad++ & CMD:** My preferred lightweight text editor to type scripts manually and run them directly through the command line.
+*   **Godot Engine (3.5.3):** Using it to learn how scenes, nodes, and positions link together in 2D.
+*   **Pygame Library:** Helping me understand how a raw game loop handles rectangle updates and inputs.
+*   **Adobe Photoshop CS3:** For editing text layouts or quick image modifications.
 
 ---
 
-## 🕵️‍♂️ SYSTEMS LAB (REVERSE ENGINEERING & QA)
-*   **Current Focus:** Deep-diving into production titles to analyze game logic, spatial algorithms, and edge-case exploits.
-*   **Methodology:** 📝 **Pure Analytical Observation** — Deconstructing complex engine behavior, diagnosing rendering bottlenecks, and documenting mechanical flaws entirely through technical summaries, architecture breakdowns, and post-mortems. 
-*   *Note: This laboratory contains zero source code—focusing strictly on architectural case studies and logical teardowns.*
+## 🏆 QUEST LOG (MY PRACTICE PROJECTS)
 
-### 🧪 [game-teardown](https://github.com/alone-ai7/game-teardown)
-*   *Objective:* Documenting architectural design patterns and structural flaws discovered during live gameplay.
+### 🟩 Flappy Bird Clone (Godot 3.5.3) — `[WIP]`
+*   *What I'm learning:* Pacing delta-time formulas, random pipe generation, and managing separate scripts for clean repository storage.
 
+### 🚀 Alien Invasion (Pygame) — `[WIP]`
+*   *What I'm learning:* Putting textbook OOP theories into practice by tracking screen boundaries, input arrays, and moving objects.
+
+### 🐍 Snake Game (Pygame) — `[QUEUED]`
+*   *What I'm learning:* Moving from plain sequential scripts to inherited classes and objects once my current projects are solid.
 
 ---
 
-### What I'm into
-- 🎮 Game development
-- 🔐 Cybersecurity
-- 🌐 Web-development
-- 🐛 Debugging
+## 🕵️‍♂️ SYSTEMS LAB (OBSERVATIONS & TEARDOWNS)
 
-### Currently
-- 🌱 First open source contributions
-- 📚 Learning the game dev pipeline
+### 🧪 [game-teardown](https://github.com)
+*   **Goal:** A repository where I analyze existing games to study how they handle boundaries, gameplay algorithms, or weird visual bugs.
+*   **Rule:** This is a code-free zone. It’s strictly my personal journal of rough notes, gameplay breakdowns, and structural summaries to help train my developer mindset.
 
-### Contact
+---
 
-Open an issue on any of my repositories, or start a discussion. Or simply tap any of my social media accounts and message me. That is the fastest way to reach me.
-For anything about a specific repository, please use that repository's issue tracker rather than emailing. Context lives better next to the code.
+## 📬 CONTACT
+
+*   **Issues & Discussions:** If you want to talk about a project, please open an issue or start a thread directly inside that repository so the conversation stays next to the relevant files.
+*   **Direct Message:** For general chats, reaching out via my social media links is the fastest method.
+
+---
 
 ### Stats   
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alone-ai7&theme=dark)  
@@ -92,9 +79,6 @@ For anything about a specific repository, please use that repository's issue tra
 ![Profile views](https://komarev.com/ghpvc/?username=alone-ai7&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 [![trophy](https://trophy.ryglcloud.net/?username=alone-ai7&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)       
-
-
 <p align="center">
   <img src="randomizer.gif" alt="ADMIRE Banner" width="100%">
 </p>
-  
