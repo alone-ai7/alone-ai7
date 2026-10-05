@@ -50,9 +50,6 @@ I use this GitHub to document my progress, keep track of my scripts, and log my 
 ### 🚀 Alien Invasion (Pygame) — `[WIP]`
 *   *What I'm learning:* Putting textbook OOP theories into practice by tracking screen boundaries, input arrays, and moving objects.
 
-### 🐍 Snake Game (Pygame) — `[QUEUED]`
-*   *What I'm learning:* Moving from plain sequential scripts to inherited classes and objects once my current projects are solid.
-
 ---
 
 ## 🕵️‍♂️ SYSTEMS LAB (OBSERVATIONS & TEARDOWNS)
