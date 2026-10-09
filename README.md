@@ -1,4 +1,3 @@
-## Hi, I'm alone-ai7 👋
 
 <p align="center">
   <img src="c08ce15b20528a64259d565f53586535.gif" alt="Kamui" width="50%">
