@@ -67,7 +67,7 @@ I use this GitHub to document my progress, keep track of my scripts, and log my 
 ---
 
 ### Stats   
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alone-ai7&theme=dark)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=inter-dimensional&theme=dark)  
 ![GitHub Stats](https://ghstats.dev/api/card?username=alone-ai7) 
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=alone-ai7&layout=compact&card_width=500&theme=dracula&line_height=60&line_width=120&t=1)
